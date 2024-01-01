@@ -1,16 +1,26 @@
-## KMFactory
+# KMFactory
 
-developing Embbeded System
+Embedded system development company
 
-easy to use driver pack
+We design systems that enable users to achieve their goals. We also design the hardware and software that make those systems possible.
 
-<!--
+---
+## Our Objective 
+* User-friendly hardware development
+* Comprehensive Test UI Development
+---
+## Our Project
 
-**Here are some ideas to get you started:**
+### 1. Image Analysis Tool : [link](https://github.com/KMFactory/Imaga_Analysis_Tool)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Provide easy ways to test your camera, algorithm
+
+
+### 2. Embedded Driver Lib : [link](https://github.com/KMFactory/KM_DriverPack)
+
+Provide easy ways to use hardware
+
+---
+## Our Website
+
+[KMFactory](https://kmfactory.org)
